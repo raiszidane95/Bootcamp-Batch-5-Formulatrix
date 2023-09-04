@@ -1,0 +1,14 @@
+e:\Code\Bootcamp-Batch-5\project1\bin\Debug\net7.0\project1.exe
+e:\Code\Bootcamp-Batch-5\project1\bin\Debug\net7.0\project1.deps.json
+e:\Code\Bootcamp-Batch-5\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+e:\Code\Bootcamp-Batch-5\project1\bin\Debug\net7.0\project1.dll
+e:\Code\Bootcamp-Batch-5\project1\bin\Debug\net7.0\project1.pdb
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\project1.dll
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\refint\project1.dll
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\project1.pdb
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+e:\Code\Bootcamp-Batch-5\project1\obj\Debug\net7.0\ref\project1.dll
