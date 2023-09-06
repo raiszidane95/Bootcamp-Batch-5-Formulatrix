@@ -6,7 +6,7 @@ public class Engine
     public int cylinder;
     public int cylinderCapacity;
 
-    public Engine(int torque, int cylinder, int cylinderCapacity)
+    public Engine(int torque, int cylinder, int cylinderCapacity) // Constructor
     {
         this.torque = torque;
         this.cylinder = cylinder;
