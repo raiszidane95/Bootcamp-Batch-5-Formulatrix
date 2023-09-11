@@ -1,4 +1,7 @@
-﻿using Animal;
+﻿/*
+    OOP - Inheritance
+*/
+using Animal;
 public static class Program
 {
     public static void Main()

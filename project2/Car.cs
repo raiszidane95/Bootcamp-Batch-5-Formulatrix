@@ -13,6 +13,7 @@ public class Car
     // Constructor with no required parameter
     public Car(Engine engine)
     {
+        this.engine = engine;
     }
 
     // Constructor with all required parameter of variable

@@ -1,6 +1,6 @@
 namespace Cars;
 
-public interface IEngine
+public interface IEngine // Interface class
 {
     void EngineRun();
 }
