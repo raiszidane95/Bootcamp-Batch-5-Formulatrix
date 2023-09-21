@@ -5,7 +5,7 @@ public class Animal
     public string? name;
     public string? age;
 
-    public Animal(string name)
+    public Animal(string name) // Constructor Animal
     {
         this.name = name;
     }

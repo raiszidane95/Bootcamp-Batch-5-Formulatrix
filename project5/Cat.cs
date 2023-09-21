@@ -11,4 +11,9 @@ public class Cat : Animal
     {
         Console.WriteLine("Meow");
     }
+    public int MakeSound(int a)
+    {
+        return a;
+    }
+
 }

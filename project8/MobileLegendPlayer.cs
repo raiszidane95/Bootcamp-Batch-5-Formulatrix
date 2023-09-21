@@ -2,9 +2,9 @@ namespace Game;
 
 public class MobileLegendPlayer : IPlayer, IOnlinePlayer
 {
-    public int GetID()
+    public int GetID(int id)
     {
-        return 1;
+        return id;
     }
 
 
@@ -21,7 +21,7 @@ public class MobileLegendPlayer : IPlayer, IOnlinePlayer
 
     public string GetUsername(string username)
     {
-       return username;
+        return username;
     }
 
 }

@@ -2,10 +2,9 @@ namespace Game;
 
 public class KarambolPlayer : IPlayer
 {
-
-    public int GetID()
+    public int GetID(int id)
     {
-        return 2;
+        return id;
     }
 
     public string GetName(string name)
@@ -13,3 +12,4 @@ public class KarambolPlayer : IPlayer
         return name;
     }
 }
+

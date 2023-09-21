@@ -1,6 +1,4 @@
-﻿
-
-// Extension Method
+﻿// Extension Method -> making own method like Dump() to dumping or print some data
 
 static class MyExtensionMethod  // this is Extension Method to that create Dump method to print variable
 {

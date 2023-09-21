@@ -3,7 +3,7 @@
     static void Main()
     {
         Func<int> myFunction = RetrunNumberOne; // Func with return output
-        Func<int, int, int> fucnWithPassingData = Sum; // Finc With return and passing variable data
+        Func<int, int, int> fucnWithPassingData = Sum; // Func With return and passing variable data
 
         Func<int, int, int> multicastFunc = Sum;
         multicastFunc += Substract;  // MulticastFunc

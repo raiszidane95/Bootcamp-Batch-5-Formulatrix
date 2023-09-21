@@ -8,7 +8,7 @@ public class Cat : Animal
         Console.WriteLine("Meow");
     }
 
-    public new void Eat()
+    public new void Eat() // nethod Hiding of Animal Eat() -> Marked with Keyword "new"
     {
         Console.WriteLine("Cat Eating..");
     }

@@ -19,7 +19,7 @@ public class Programs
 
         Cat origin = new Cat();
         Animal animal1 = origin;
-        Cat cat1 = (Cat)animal1; // this can Casting instance because from the instance of 'cat' is casting by parent class which the child class have a complete property and method
+        Cat cat1 = (Cat)animal1; // this can be Casting an instance because from the instance of 'cat' is casting by parent class which the child class have a complete property and method
 
         cat1.MakeSound();
         animal1.MakeSound();

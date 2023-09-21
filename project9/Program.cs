@@ -9,7 +9,7 @@
 
         //Downcast = big size type -> small size type
         //Explicit
-        double z = 10000000000;
+        double z = 1000000.010;
         int q = (int)z; //Explicit cast
 
         Console.WriteLine(x);
